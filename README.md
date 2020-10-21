@@ -1,1 +1,1 @@
-check coursera.jpeg for output
+check coursera.jpg for output
